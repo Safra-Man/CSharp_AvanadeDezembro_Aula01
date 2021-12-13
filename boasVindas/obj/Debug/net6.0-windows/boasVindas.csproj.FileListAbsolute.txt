@@ -1,0 +1,17 @@
+C:\boasVindas\boasVindas\bin\Debug\net6.0-windows\boasVindas.exe
+C:\boasVindas\boasVindas\bin\Debug\net6.0-windows\boasVindas.deps.json
+C:\boasVindas\boasVindas\bin\Debug\net6.0-windows\boasVindas.runtimeconfig.json
+C:\boasVindas\boasVindas\bin\Debug\net6.0-windows\boasVindas.dll
+C:\boasVindas\boasVindas\bin\Debug\net6.0-windows\ref\boasVindas.dll
+C:\boasVindas\boasVindas\bin\Debug\net6.0-windows\boasVindas.pdb
+C:\boasVindas\boasVindas\obj\Debug\net6.0-windows\boasVindas.csproj.AssemblyReference.cache
+C:\boasVindas\boasVindas\obj\Debug\net6.0-windows\boasVindas.frmAula01.resources
+C:\boasVindas\boasVindas\obj\Debug\net6.0-windows\boasVindas.csproj.GenerateResource.cache
+C:\boasVindas\boasVindas\obj\Debug\net6.0-windows\boasVindas.GeneratedMSBuildEditorConfig.editorconfig
+C:\boasVindas\boasVindas\obj\Debug\net6.0-windows\boasVindas.AssemblyInfoInputs.cache
+C:\boasVindas\boasVindas\obj\Debug\net6.0-windows\boasVindas.AssemblyInfo.cs
+C:\boasVindas\boasVindas\obj\Debug\net6.0-windows\boasVindas.csproj.CoreCompileInputs.cache
+C:\boasVindas\boasVindas\obj\Debug\net6.0-windows\boasVindas.dll
+C:\boasVindas\boasVindas\obj\Debug\net6.0-windows\ref\boasVindas.dll
+C:\boasVindas\boasVindas\obj\Debug\net6.0-windows\boasVindas.pdb
+C:\boasVindas\boasVindas\obj\Debug\net6.0-windows\boasVindas.genruntimeconfig.cache
